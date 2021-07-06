@@ -26,4 +26,28 @@
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>怎样使用gitee搭建免费图床</title>
+    <url>/2021/07/06/%E4%BD%BF%E7%94%A8gitee%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h1 id="怎样使用gitee搭建免费图床"><a href="#怎样使用gitee搭建免费图床" class="headerlink" title="怎样使用gitee搭建免费图床"></a>怎样使用gitee搭建免费图床</h1><p><u>搭建个人的图床可以更好管理个人图片比如在写博客时，因为在国内所以就用gitee来搭建了</u></p>
+<h2 id="1-创建码云账号"><a href="#1-创建码云账号" class="headerlink" title="1.创建码云账号"></a>1.创建码云账号</h2><p><a class="link"   href="https://gitee.com/" >https://gitee.com/<i class="fas fa-external-link-alt"></i></a></p>
+<p>emmmm….跳过</p>
+<h2 id="2-新建仓库"><a href="#2-新建仓库" class="headerlink" title="2.新建仓库"></a>2.新建仓库</h2><p>新建一个项目</p>
+<p><img src="https://gitee.com/hpy2021s/myphoto/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210706201319.png"></p>
+<p><img src="https://gitee.com/hpy2021s/myphoto/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210706201854.png"></p>
+<p>一定要公开不然可能访问不到</p>
+<h2 id="3-配置"><a href="#3-配置" class="headerlink" title="3.配置"></a>3.配置</h2><p><img src="https://gitee.com/hpy2021s/myphoto/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210706202315.png"></p>
+<p><img src="https://gitee.com/hpy2021s/myphoto/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210706202409.png"></p>
+<p>保存好令牌</p>
+<h2 id="4-下载安装使用picgo"><a href="#4-下载安装使用picgo" class="headerlink" title="4.下载安装使用picgo"></a>4.下载安装使用picgo</h2><p><a class="link"   href="https://github.com/PicGo/" >PicGo (github.com)<i class="fas fa-external-link-alt"></i></a></p>
+<p>安装picgo并安装其中gitee插件</p>
+<p><img src="https://gitee.com/hpy2021s/myphoto/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210706203039.png"></p>
+<p>填完后设置为默认图床</p>
+<p><img src="https://gitee.com/hpy2021s/myphoto/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210706203146.png"></p>
+<p>将图片上传后可在仓库在查看</p>
+<h2 id="5-使用"><a href="#5-使用" class="headerlink" title="5.使用"></a>5.使用</h2><p>将图片链接复制至博客上即可使用</p>
+<h2 id="tips："><a href="#tips：" class="headerlink" title="tips："></a>tips：</h2><p>建议对图片压缩后上传gitee对图片大小有限制，1mb以上的图片是无法上传的，毕竟gitee不是专门的图床的；</p>
+<p>写博客时可结合其他图床一起使用。</p>
+]]></content>
+  </entry>
 </search>
